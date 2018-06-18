@@ -3,5 +3,5 @@ import "fmt"
 func main()
 {
  fmt.Println("hello,cloud!")
- fmt.Println("你好，AWS99999")
+ fmt.Println("你好，AWS9000009999")
 }
